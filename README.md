@@ -12,3 +12,5 @@ Helper of BotGround :gear:
     
   </div>
 </div>
+
+<hr>
