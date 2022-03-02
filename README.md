@@ -7,13 +7,15 @@
 
 Hi I'm Cristy Italian Player :earth_africa:
 
-PC's Player :desktop:
+PC's Player 🖥️
 
 Graphic Designer :art: and Developer :keyboard:
 
 MOD of The Programmer's Hub 🛠️ [Server](https://discord.gg/tXQ9m2sMdh)
 
 Helper of BotGround :gear: [Server](https://discord.gg/)
+
+Friend of M€𝐭Տ#1391 🤝 [Server](https://discord.gg/nSgN4fSmrA)
     
   </div>
 </div>
