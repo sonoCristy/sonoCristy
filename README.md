@@ -13,7 +13,7 @@ Graphic Designer :art: and Developer :keyboard:
 
 MOD of The Programmer's Hub 🛠️ [Server](https://discord.gg/tXQ9m2sMdh)
 
-Helper of BotGround :gear: [Server](https://discord.gg/)
+Helper of BotGround :gear: [Server](https://discord.gg/VTsApJt5ZX)
 
 My Friend M€𝐭Տ#1391 🤝 [Server](https://discord.gg/nSgN4fSmrA)
     
