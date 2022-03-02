@@ -4,11 +4,16 @@
 ### Hi there, I'm Cristy 👋
 
 ## 📄 About
-Hi I'm Cristy Italian Player :earth_africa:\n
-PC's Player :desktop:\n
-Graphic Designer :art: and Developer :keyboard:\n
-MOD of The Programmer's Hub 🛠️\n
-Helper of BotGround :gear:\n
+
+Hi I'm Cristy Italian Player :earth_africa:
+
+PC's Player :desktop:
+
+Graphic Designer :art: and Developer :keyboard:
+
+MOD of The Programmer's Hub 🛠️[Server](https://discord.gg/tXQ9m2sMdh)
+
+Helper of BotGround :gear: [Server](https://discord.gg/)
     
   </div>
 </div>
