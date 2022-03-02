@@ -28,6 +28,7 @@ My contacts
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JmgehPSDD6)
 [![Twitter](https://img.shields.io/badge/Twitter-1a8cd8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sonoCristy)
+[![Spotify](https://img.shields.io/badge/Spotify-1fdf64?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/cscognamiglio06?si=7ca09316c07a4f51)
 
 ## 📊 Statistics
 
