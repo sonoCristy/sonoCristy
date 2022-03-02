@@ -13,4 +13,6 @@ Helper of BotGround :gear:
   </div>
 </div>
 
-<hr>
+<div align="left">
+  <a href="https://discord.com/users/587009268465795082" target="_blank"><img src="https://lanyard.cnrad.dev/api/587009268465795082?idleMessage=Watching something&bg=282a36&border=10px"></a>
+</div>
