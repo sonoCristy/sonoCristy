@@ -11,7 +11,7 @@ PC's Player :desktop:
 
 Graphic Designer :art: and Developer :keyboard:
 
-MOD of The Programmer's Hub 🛠️[Server](https://discord.gg/tXQ9m2sMdh)
+MOD of The Programmer's Hub 🛠️ [Server](https://discord.gg/tXQ9m2sMdh)
 
 Helper of BotGround :gear: [Server](https://discord.gg/)
     
