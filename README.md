@@ -39,7 +39,7 @@ My contacts
 </div>
 
 <div align="left"> 
-  <a href="https://www.google.it/" target="_blank"><img width="450vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoCristy&layout=compact"></a>
+  <a href="https://www.google.it/" target="_blank"><img width="450vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoCristy&layout=compact&exclude_repo=DH-Season-6-Archive,PD-Season-1-Archive,PD-Season-2-Archive,DH-Season-7-Archive,DH-Season-8-Archive,DHGeneralArchive,PD-Season-3-Archive,MD-Season-1-Archive&theme=github_dark"></a>
 </div>
 
 ## 👀 Skills
