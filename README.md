@@ -38,6 +38,10 @@ My contacts
   <a href="https://www.google.it/" target="_blank"><img width="450vh" src="https://github-readme-stats.vercel.app/api?username=sonoCristy&theme=github_dark&show_icons=true&hide=contribs,prs&width=5000px"></a>
 </div>
 
+<div align="left"> 
+  <a href="https://www.google.it/" target="_blank"><img width="450vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonoCristy&layout=compact"></a>
+</div>
+
 ## 👀 Skills
 
 **·** Front-end development: [![JAVASCRIPT](https://camo.githubusercontent.com/1c2c77ac59069dfcef9352aeab50dc2d8866ced09d738413dfd63967ab91bac5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d626c61636b3f266c6f676f3d6a617661736372697074)](https://camo.githubusercontent.com/1c2c77ac59069dfcef9352aeab50dc2d8866ced09d738413dfd63967ab91bac5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d626c61636b3f266c6f676f3d6a617661736372697074)
