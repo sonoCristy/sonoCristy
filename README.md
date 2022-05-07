@@ -5,9 +5,9 @@
 
 ## 📄 About
 
-Hi I'm Cristy Italian Player :earth_africa:
+Hi I'm Cristy :earth_africa:
 
-PC's Player 🖥️
+Favorite song : Heart of Ice 🎵
 
 Graphic Designer :art: and Developer :keyboard:
 
@@ -15,7 +15,7 @@ MOD of The Programmer's Hub 🛠️ [Server](https://discord.gg/tXQ9m2sMdh)
 
 Helper of BotGround :gear: [Server](https://discord.gg/VTsApJt5ZX)
 
-My Friend M€𝐭Տ#1391 🤝 [Server](https://discord.gg/nSgN4fSmrA)
+Admin of CLUB SOCI 🧭 [Server](https://discord.gg/nSgN4fSmrA)
     
   </div>
 </div>
