@@ -21,7 +21,7 @@ Admin of CLUB SOCI 🧭 [Server](https://discord.gg/nSgN4fSmrA)
 </div>
 
 <div align="left">
-  <a href="https://discord.com/users/587009268465795082" target="_blank"><img src="https://lanyard.cnrad.dev/api/587009268465795082?idleMessage=Watching something&bg=282a36&border=10px"></a>
+  <a href="https://discord.com/users/587009268465795082" target="_blank"><img src="api.lanyard.rest/v1/users/587009268465795082?idleMessage=Watching something&bg=282a36&border=10px"></a>
 </div>
 
 ## 🔗 Connect with me
